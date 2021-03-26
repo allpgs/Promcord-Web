@@ -10,9 +10,9 @@ const Navbar = () => {
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item"><NavLink exact className="nav-link" to="/">홈 <span className="sr-only">(current)</span></NavLink></li>
                         <li className="nav-item"><NavLink className="nav-link" to="/about">소개 <span className="sr-only">(current)</span></NavLink></li>
-                        <li className="nav-item"><a className="nav-link" href="/invite.html">초대 <span className="sr-only">(current)</span></a></li>
+                        <li className="nav-item"><a className="nav-link" href="https://discord.com/api/oauth2/authorize?client_id=720567998783684631&permissions=8&scope=bot">초대 <span className="sr-only">(current)</span></a></li>
                         <li className="nav-item"><NavLink className="nav-link" to="/guide">가이드 <span className="sr-only">(current)</span></NavLink></li>
-                        <li className="nav-item"><a className="nav-link" href="/join.html">디스코드 <span className="sr-only">(current)</span></a></li>
+                        <li className="nav-item"><a className="nav-link" href="https://discord.gg/2tbXMMF">디스코드 <span className="sr-only">(current)</span></a></li>
                     </ul>
                     </div>
                 </div>
