@@ -16,7 +16,7 @@ const Footer = () => {
                         <div className="footer-desc">
                             <span className="footer-box">
                                 <i alt="discord" className="fab fa-discord" height="20px" />
-                                <a href="/join.html" className="footer-link">
+                                <a href="https://discord.gg/2tbXMMF" className="footer-link">
                                     Promcord 공식 디스코드
                                 </a>
                             </span>
