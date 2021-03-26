@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/promcord-web-new/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/promcord-web-new/static/js/main.e7ecf229.chunk.js",
-    "main.js.map": "/promcord-web-new/static/js/main.e7ecf229.chunk.js.map",
-    "runtime-main.js": "/promcord-web-new/static/js/runtime-main.c3d22164.js",
-    "runtime-main.js.map": "/promcord-web-new/static/js/runtime-main.c3d22164.js.map",
-    "static/js/2.f53ed86e.chunk.js": "/promcord-web-new/static/js/2.f53ed86e.chunk.js",
-    "static/js/2.f53ed86e.chunk.js.map": "/promcord-web-new/static/js/2.f53ed86e.chunk.js.map",
-    "static/js/3.70d772e4.chunk.js": "/promcord-web-new/static/js/3.70d772e4.chunk.js",
-    "static/js/3.70d772e4.chunk.js.map": "/promcord-web-new/static/js/3.70d772e4.chunk.js.map",
-    "index.html": "/promcord-web-new/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/promcord-web-new/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f53ed86e.chunk.js.LICENSE.txt": "/promcord-web-new/static/js/2.f53ed86e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/promcord-web-new/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.e7ecf229.chunk.js",
+    "main.js.map": "/static/js/main.e7ecf229.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d68cc54.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d68cc54.js.map",
+    "static/js/2.f53ed86e.chunk.js": "/static/js/2.f53ed86e.chunk.js",
+    "static/js/2.f53ed86e.chunk.js.map": "/static/js/2.f53ed86e.chunk.js.map",
+    "static/js/3.70d772e4.chunk.js": "/static/js/3.70d772e4.chunk.js",
+    "static/js/3.70d772e4.chunk.js.map": "/static/js/3.70d772e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f53ed86e.chunk.js.LICENSE.txt": "/static/js/2.f53ed86e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3d22164.js",
+    "static/js/runtime-main.5d68cc54.js",
     "static/js/2.f53ed86e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.e7ecf229.chunk.js"
