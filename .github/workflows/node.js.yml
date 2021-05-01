@@ -26,6 +26,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: git config --global user.email "kms0219kms@naver.com" 
-    - run: git config --global user.name "Node.js CI"
+    - run: git config --global user.name "kms0219kms"
     - run: yarn
     - run: yarn deploy
